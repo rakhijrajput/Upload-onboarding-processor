@@ -1,0 +1,9 @@
+Welcome to the team, {{ name }}!
+
+Employee ID: {{ employee_id }}
+Department: {{ department }}
+Role: {{ role }}
+Joining date: {{ joining_date }}
+Manager: {{ manager }}
+
+Please contact your manager before your joining date if you have questions.

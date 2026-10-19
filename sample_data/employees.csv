@@ -1,0 +1,4 @@
+employee_id,name,department,role,joining_date,manager
+EMP-001,Aarav Sharma,Engineering,Software Engineer,2026-11-02,Neha Kapoor
+EMP-002,Meera Iyer,People Operations,HR Associate,15/11/2026,Rahul Menon
+EMP-003,,Finance,Analyst,2026-11-20,Ananya Shah
